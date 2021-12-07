@@ -5,4 +5,4 @@
 [Build a CALCULATOR APP in REACT JS
 ](https://www.youtube.com/watch?v=oiX-6Y2oGjI&list=PLR8vUZDE6IeNFRpeXZ0vSb4csqp1x5F3Q&index=12)
 
-![CALCULATOR](C:\Users\herma\OneDrive\Área de Trabalho\PROJECTS FOR GIT\IMGs/CALCULATOR.png)
+![CALCULATOR](C:\Users\herma\OneDrive\Área de Trabalho\PROJECTS FOR GIT\IMGs\CALCULATOR.png)
